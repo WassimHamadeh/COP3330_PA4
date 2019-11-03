@@ -1,0 +1,1 @@
+{Wayne=1, Happy=1, thanksgiving=1, John=1, pilgrims,=1, I'm=1, pilgrims=1}
